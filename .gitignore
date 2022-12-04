@@ -6,6 +6,7 @@ dataset/
 GDrive/
 other/
 output/
+ResNet/models/
 *.zip
 *.gz
 
