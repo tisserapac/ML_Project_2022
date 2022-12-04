@@ -1,5 +1,13 @@
 #Project files
 EuroSAT_RGB/
+EuroSATallBands/
+EuroSAT-RGB/
+dataset/
+GDrive/
+other/
+output/
+*.zip
+*.gz
 
 
 
