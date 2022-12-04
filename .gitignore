@@ -5,8 +5,16 @@ EuroSAT-RGB/
 dataset/
 GDrive/
 other/
-output/
 ResNet/models/
+output/history
+output/models
+output/state
+
+
+paper/*
+!paper/Land_Use_Class/
+
+
 *.zip
 *.gz
 
