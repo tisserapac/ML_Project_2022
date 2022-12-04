@@ -1,5 +1,16 @@
 #Project files
 EuroSAT_RGB/
+EuroSATallBands/
+EuroSAT-RGB/
+dataset/
+GDrive/
+other/
+output/
+ResNet/models/
+*.zip
+*.gz
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
